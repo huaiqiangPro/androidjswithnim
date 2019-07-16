@@ -1,0 +1,1542 @@
+[
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_audio_playing_left_blue_bg.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_audio_playing_left_blue_bg.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/action_bar_black_more_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/action_bar_black_more_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_team_member_add_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_team_member_add_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_black_list.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/ic_black_list.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/room_cover_64.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/room_cover_64.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/g_white_btn_pressed.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/g_white_btn_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_input_emotion_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_input_emotion_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_loaction_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/btn_loaction_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_right_type_video.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_right_type_video.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/g_red_long_btn_nomal.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/g_red_long_btn_nomal.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_team_member_add_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_team_member_add_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_bg_message_tip.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_bg_message_tip.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_picker_orignal_checked.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_picker_orignal_checked.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_ic_menu_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_ic_menu_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_plus_rts_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/message_plus_rts_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_plus_audio_chat_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/message_plus_audio_chat_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_session_pdf.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_session_pdf.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/head_icon_6.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/head_icon_6.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_video_play_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_video_play_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_checkbox_not_checked.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/nim_checkbox_not_checked.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/d325fdf226d187e25aba2fc15750d13e/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_switch_mode_video_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_switch_mode_video_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/video_audio_mode_switch_bg_pressed.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/video_audio_mode_switch_bg_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_explosion_five.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_explosion_five.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/multi_select_switch_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/multi_select_switch_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_multiport.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/ic_multiport.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_session_html.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_session_html.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_ic_message_actionbar_p2p_add.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/nim_ic_message_actionbar_p2p_add.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_logo.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/ic_logo.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_microphone_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_microphone_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_view_holder_right_snapchat_disable.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/message_view_holder_right_snapchat_disable.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_detail_mp3.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_detail_mp3.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_team_admin_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_team_admin_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/actionbar_white_logo_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/actionbar_white_logo_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_input_send_normal.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/rtskit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_input_send_normal.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/room_cover_58.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/room_cover_58.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_plus_video_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_plus_video_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/red_packet_send_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res-rp/drawable-hdpi/red_packet_send_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/network_grade_0.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/network_grade_0.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_session_txt.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_session_txt.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_volume_mute_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_volume_mute_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_moon_page_selected.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_moon_page_selected.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_voice_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_voice_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_sample_footer_loading.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_sample_footer_loading.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_view_holder_left_snapchat.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/message_view_holder_left_snapchat.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/register_right_top_btn_normal.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/register_right_top_btn_normal.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_left_type_video.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_left_type_video.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/g_green_btn_pressed.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/g_green_btn_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_voice_mute_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_voice_mute_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/red_packet_rev_press.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res-rp/drawable-hdpi/red_packet_rev_press.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/head_icon_10.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/head_icon_10.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_detail_html.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_detail_html.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_room_announce.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/chat_room_announce.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_ic_trans_fail.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_ic_trans_fail.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_detail_jpg.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_detail_jpg.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_g_unread_badge.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_g_unread_badge.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_plus_photo_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_plus_photo_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_loaction_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/btn_loaction_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_microphone.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_microphone.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_plus_snapchat_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/message_plus_snapchat_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7eea1ddf3c3b11a68a3555619af36e92/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_left_type_audio.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_left_type_audio.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_left_white_bg.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_left_white_bg.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/about_logo.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/about_logo.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_secretary.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/ic_secretary.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_team_create_btn_pressed.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_team_create_btn_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_ic_failed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_ic_failed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_hangup.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_hangup.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_ic_menu_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_ic_menu_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_picker_image_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_picker_image_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_detail_excel.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_detail_excel.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_mute_speaker_bg_disable.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_mute_speaker_bg_disable.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_plus_file_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/message_plus_file_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_video_play_icon_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_video_play_icon_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_mute_speaker_bg_pressed.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_mute_speaker_bg_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_input_voice_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_input_voice_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_contact_letter_view_hit_point.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_contact_letter_view_hit_point.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_switch_camera.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_switch_camera.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_female.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/nim_female.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_admin_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_admin_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_session_mp4.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_session_mp4.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/head_icon_1.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/head_icon_1.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/head_icon_9.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/head_icon_9.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_picker_image_selected.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_picker_image_selected.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_input_send_pressed.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/rtskit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_input_send_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_mute_speaker_bg_checked.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_mute_speaker_bg_checked.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_ic_actionbar_robot_info.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/nim_ic_actionbar_robot_info.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_switch_camera_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_switch_camera_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_detail_txt.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_detail_txt.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_ic_message_actionbar_team.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/nim_ic_message_actionbar_team.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_input_plus.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_input_plus.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/head_icon_3.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/head_icon_3.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_dialog_toast_bg.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_dialog_toast_bg.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_session_zip.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_session_zip.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_scrollbar_handle_holo_dark.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_scrollbar_handle_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_volume.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_volume.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_contact_checkbox_unchecked.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_contact_checkbox_unchecked.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_robot_link_view_press_bg.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_robot_link_view_press_bg.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_plus_video_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_plus_video_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_video_switch_camera_disable.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_video_switch_camera_disable.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/welcome_bg.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/welcome_bg.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_watch_video_download_progress_foreground.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_watch_video_download_progress_foreground.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_input_emotion.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_input_emotion.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_detail_mp4.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_detail_mp4.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/head_icon_4.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/head_icon_4.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_session_jpg.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_session_jpg.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/d325fdf226d187e25aba2fc15750d13e/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_slide_toggle_off.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_slide_toggle_off.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_video_record_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_video_record_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_session_mp3.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_session_mp3.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_right_type_audio.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_right_type_audio.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_recent_contact_ic_sending.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_recent_contact_ic_sending.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_default_img_failed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_default_img_failed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/video_audio_mode_switch_bg_normal.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/video_audio_mode_switch_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/design_ic_visibility_off.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/0b0a0451a91dd04f12c97cf6ba8a10ad/res/drawable-hdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_detail_word.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_detail_word.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7eea1ddf3c3b11a68a3555619af36e92/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/network_grade_3.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/network_grade_3.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_plus_location_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_plus_location_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_contact_checkbox_checked_green.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_contact_checkbox_checked_green.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_microphone_mute.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_microphone_mute.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_switch_mode_audio_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_switch_mode_audio_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_my_computer.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/ic_my_computer.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_session_png.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_session_png.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_actionbar_dark_back_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/rtskit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_actionbar_dark_back_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_avatar_default.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_avatar_default.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_messages_list_empty_bg.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_messages_list_empty_bg.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_grey_delete_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_grey_delete_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_avatar_default.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/rtskit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_avatar_default.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_audio_open.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/rtskit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon_audio_open.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_robot_link_view_bg.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_robot_link_view_bg.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/head_icon_5.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/head_icon_5.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/address.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/address.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_voice_normal_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_voice_normal_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/register_right_top_btn_disable.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/register_right_top_btn_disable.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_plus_rts_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/message_plus_rts_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_image_download_failed.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_image_download_failed.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_plus_video_chat_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/message_plus_video_chat_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_mute_icon_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_mute_icon_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/d325fdf226d187e25aba2fc15750d13e/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_session_word.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_session_word.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_plus_photo_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_plus_photo_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_cameras.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_cameras.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_audio_animation_list_left_2.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_audio_animation_list_left_2.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/room_cover_36.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/room_cover_36.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_plus_red_packet_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res-rp/drawable-hdpi/message_plus_red_packet_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_right_blue_bg_pressed.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_right_blue_bg_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_actionbar_search_dark_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_actionbar_search_dark_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_team_member_delete_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_team_member_delete_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_detail_unknow.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_detail_unknow.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_rts_send.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/icon_rts_send.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_detail_ppt.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_detail_ppt.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/head_icon_7.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/head_icon_7.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/d325fdf226d187e25aba2fc15750d13e/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_emoji_del.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_emoji_del.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/actionbar_dark_logo_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/actionbar_dark_logo_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_slide_toggle.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_slide_toggle.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_icon_edit_delete.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_icon_edit_delete.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/network_grade_1.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/network_grade_1.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/logo.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/actionbar_dark_back_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/actionbar_dark_back_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_image_default.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_image_default.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_mute_speaker_bg_normal.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_mute_speaker_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_session_excel.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_session_excel.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_plus_audio_chat_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/message_plus_audio_chat_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/d325fdf226d187e25aba2fc15750d13e/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/head_icon_8.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/head_icon_8.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_audio_animation_list_right_1.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_audio_animation_list_right_1.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_team_announce.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/bg_team_announce.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_actionbar_dark_logo_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/rtskit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_actionbar_dark_logo_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_video_close_camera_disable.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_video_close_camera_disable.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/leak_canary_notification.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/db57224d343f22abd494507cecc34734/res/drawable-hdpi-v4/leak_canary_notification.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_watch_video_download_progress_background.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_watch_video_download_progress_background.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_icon_download_pause.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_icon_download_pause.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_unsupport_mime_type.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_unsupport_mime_type.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_picker_preview_unselected.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_picker_preview_unselected.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/design_ic_visibility.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/0b0a0451a91dd04f12c97cf6ba8a10ad/res/drawable-hdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_loading.gif",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_loading.gif"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_input_edittext_box_pressed.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_input_edittext_box_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_detail_zip.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_detail_zip.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/room_cover_37.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/room_cover_37.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_audio_call_wifi_unavailable.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_audio_call_wifi_unavailable.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_video_mute_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_video_mute_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_actionbar_white_back_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_actionbar_white_back_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_stat_notify_msg.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/ic_stat_notify_msg.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_video_mute_disable.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_video_mute_disable.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_plus_guess_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/message_plus_guess_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_right_blue_bg.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_right_blue_bg.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_hangup_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_hangup_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_picker_preview_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_picker_preview_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_team_create_btn.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_team_create_btn.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_g_download_progress_bar_bg.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_g_download_progress_bar_bg.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_verify_remind.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/icon_verify_remind.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_advanced_team.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/ic_advanced_team.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_robot.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/ic_robot.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_cameras_hover.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_cameras_hover.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_audio_record_icon_disable.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_audio_record_icon_disable.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_video_close_camera_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_video_close_camera_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_room_back_arrow_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/chat_room_back_arrow_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_close_video_send.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_close_video_send.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_plus_location_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_plus_location_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_session_rar.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_session_rar.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_speaker_icon_checked.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_speaker_icon_checked.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_default_img.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_default_img.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_volume_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_volume_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_audio_animation_list_right_3.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_audio_animation_list_right_3.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/network_grade_2.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/network_grade_2.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_picker_preview_disable.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_picker_preview_disable.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_emoji_icon_inactive.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_emoji_icon_inactive.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_input_edittext_box.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_input_edittext_box.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7eea1ddf3c3b11a68a3555619af36e92/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_speaker_icon_disable.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_speaker_icon_disable.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_account_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/user_account_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/room_cover_50.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/room_cover_50.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/d325fdf226d187e25aba2fc15750d13e/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_ic_messge_history.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/nim_ic_messge_history.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_video_record_disable.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_video_record_disable.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_audio_record_icon_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_audio_record_icon_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_icon_reddot.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_icon_reddot.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_camera_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_camera_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_video_bottom_logout_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_video_bottom_logout_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_red_round_button_pressed.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/nim_red_round_button_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nick_name_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/nick_name_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_view_holder_right_snapchat.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/message_view_holder_right_snapchat.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_camera_mute_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_camera_mute_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_new_message_notify.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_new_message_notify.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_input_keyboard_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_input_keyboard_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_detail_gif.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_detail_gif.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/multi_select_switch_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/multi_select_switch_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_audio_animation_list_left_3.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_audio_animation_list_left_3.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/no_announce.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/no_announce.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_explosion_three.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_explosion_three.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/head_icon_2.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/head_icon_2.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_refuse_bg_pressed.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_refuse_bg_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_video_mute_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_video_mute_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_contact_select_dot_avatar.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_contact_select_dot_avatar.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_team_member_item_delete_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_team_member_item_delete_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_disable_user_audio_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_disable_user_audio_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/action_bar_search_view_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/action_bar_search_view_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_plus_red_packet_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res-rp/drawable-hdpi/message_plus_red_packet_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_voice_mute.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_voice_mute.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_audio_record_icon_checked.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_audio_record_icon_checked.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_microphone_mute_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_microphone_mute_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_detail_png.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_detail_png.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_camera_mute.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_camera_mute.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/red_packet_open_tip.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res-rp/drawable-hdpi/red_packet_open_tip.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7eea1ddf3c3b11a68a3555619af36e92/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_contact_hit_letter_bg.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_contact_hit_letter_bg.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_refuse_bg_normal.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_refuse_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_icon_download_resume.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_icon_download_resume.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_slide_toggle_on.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_slide_toggle_on.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_mute_icon_checked.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_mute_icon_checked.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_input_plus_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_input_plus_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_contact_checkbox_checked_grey.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_contact_checkbox_checked_grey.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/room_cover_49.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/room_cover_49.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_red_round_button.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/nim_red_round_button.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_speaker_icon_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_speaker_icon_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_picker_orignal_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_picker_orignal_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/head_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/head_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_disable_user_audio_disable.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_disable_user_audio_disable.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_left_white_bg_pressed.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_left_white_bg_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_explosion_two.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_explosion_two.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/jrmf_rmb.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/jrmfRpWalletlib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/jrmf_rmb.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_bg.webp",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/login_bg.webp"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_record_bg.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_record_bg.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7eea1ddf3c3b11a68a3555619af36e92/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/actionbar_dropdown_bg.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/actionbar_dropdown_bg.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_view_holder_left_snapchat_disable.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/message_view_holder_left_snapchat_disable.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_plus_video_chat_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/message_plus_video_chat_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_male.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/nim_male.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_white_round_button.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/nim_white_round_button.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_video_switch_camera_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_video_switch_camera_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/leak_canary_icon_foreground.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/db57224d343f22abd494507cecc34734/res/drawable-hdpi-v4/leak_canary_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_g_download_progress_bar.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_g_download_progress_bar.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/marker_info_bg.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/marker_info_bg.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_session_ppt.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_session_ppt.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_session_gif.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_session_gif.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_volume_mute.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_volume_mute.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_video_switch_camera_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_video_switch_camera_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_team_member_delete_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_team_member_delete_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/pin.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/pin.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/g_red_long_btn_pressed.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/g_red_long_btn_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/splash.jpg",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/splash.jpg"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/user_pwd_lock_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/user_pwd_lock_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_music_icon_play.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_music_icon_play.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_mute_icon_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_mute_icon_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_popup_menu_bg.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_popup_menu_bg.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_audio_animation_list_right_2.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_audio_animation_list_right_2.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_plus_tip_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/message_plus_tip_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_explosion_one.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_explosion_one.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/d325fdf226d187e25aba2fc15750d13e/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_session_unknow.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_session_unknow.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/red_packet_rev_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res-rp/drawable-hdpi/red_packet_rev_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_call_bg.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_call_bg.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_detail_rar.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_detail_rar.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/room_cover_72.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/room_cover_72.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_master_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_master_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_multiport_detail.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/ic_multiport_detail.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_avatar_group.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/rtskit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_avatar_group.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/file_ic_detail_pdf.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/file_ic_detail_pdf.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_camera.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_camera.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_plus_tip_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/message_plus_tip_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/g_white_btn_normal.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/g_white_btn_normal.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_input_keyboard.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_input_keyboard.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_moon_page_unselected.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_moon_page_unselected.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/red_packet_send_press.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res-rp/drawable-hdpi/red_packet_send_press.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_mute_icon_disable.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_mute_icon_disable.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_team_owner_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_team_owner_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_emoji_icon.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_emoji_icon.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_video_close_camera_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_video_close_camera_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_video_capture_start_btn.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_video_capture_start_btn.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_video_record_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_video_record_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_receive_bg_pressed.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_receive_bg_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_explosion_four.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_explosion_four.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/edittext_white_normal.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/edittext_white_normal.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_unread_news_icon_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_unread_news_icon_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_audio_record_icon_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_audio_record_icon_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_audio_close.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/rtskit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon_audio_close.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_loading_small_white.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_loading_small_white.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_emoji_ck_bg.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_emoji_ck_bg.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_audio_playing_right_blue_bg.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_audio_playing_right_blue_bg.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_video_bottom_logout_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_video_bottom_logout_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_activity_top_tip.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_activity_top_tip.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_no_pickup.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_no_pickup.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_speaker_icon_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_speaker_icon_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/room_cover_57.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/room_cover_57.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_audio_animation_list_left_1.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_audio_animation_list_left_1.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_room_back_arrow_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/chat_room_back_arrow_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_arrow_right.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_arrow_right.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_message_input_voice_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_message_input_voice_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_plus_file_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/message_plus_file_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/avchat_receive_bg_normal.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/avchat_receive_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/t_avchat_disable_user_audio.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/t_avchat_disable_user_audio.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_picker_preview_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_picker_preview_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_plus_guess_pressed.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/message_plus_guess_pressed.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_video_capture_stop_btn.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-hdpi-v4/nim_video_capture_stop_btn.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/message_plus_snapchat_normal.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/message_plus_snapchat_normal.png"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-hdpi-v4/nim_white_round_button_pressed.9.png",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/demo/res/drawable-hdpi/nim_white_round_button_pressed.9.png"
+    }
+]

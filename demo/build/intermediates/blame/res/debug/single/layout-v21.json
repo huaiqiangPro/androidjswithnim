@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7eea1ddf3c3b11a68a3555619af36e92/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7eea1ddf3c3b11a68a3555619af36e92/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7eea1ddf3c3b11a68a3555619af36e92/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7eea1ddf3c3b11a68a3555619af36e92/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

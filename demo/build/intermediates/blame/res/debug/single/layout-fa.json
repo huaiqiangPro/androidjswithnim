@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/layout-fa/upsdk_app_dl_progress_dialog.xml",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/0f17f177fc1320c312a9b61028c608d7/res/layout-fa/upsdk_app_dl_progress_dialog.xml"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/layout-fa/upsdk_ota_update_view.xml",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/0f17f177fc1320c312a9b61028c608d7/res/layout-fa/upsdk_ota_update_view.xml"
+    }
+]

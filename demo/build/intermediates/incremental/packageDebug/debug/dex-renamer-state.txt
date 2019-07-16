@@ -1,0 +1,10 @@
+#Tue Jul 16 09:37:14 CST 2019
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/transforms/dexMerger/debug/0
+base.1=/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/transforms/dexMerger/debug/0
+base.0=/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/transforms/dexMerger/debug/0
+file.2=/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/transforms/dexMerger/debug/0/classes3.dex
+file.1=/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/transforms/dexMerger/debug/0/classes2.dex
+file.0=/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/transforms/dexMerger/debug/0/classes.dex

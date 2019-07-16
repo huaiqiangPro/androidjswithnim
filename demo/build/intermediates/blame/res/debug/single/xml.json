@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/xml/nrtc_setting_pref.xml",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/bundles/debug/res/xml/nrtc_setting_pref.xml"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/xml/leak_canary_file_paths.xml",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/db57224d343f22abd494507cecc34734/res/xml/leak_canary_file_paths.xml"
+    }
+]

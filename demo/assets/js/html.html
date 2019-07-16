@@ -1,0 +1,64 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" charset="UTF-8"/>
+
+    <script type="text/javascript">
+
+            function javacalljs(){
+                 androidJS.toast("通了！！！！！");
+            }
+
+            function javacalljswith(account){
+                 androidJS.outgoingCall(account);
+            }
+
+
+            function javalogin(account,token){
+                 androidJS.login(account,token);
+            }
+
+
+            function setFlag(videoFlag){
+                 androidJS.setVideoFlag(true);
+            }
+
+            function shot(){
+                 androidJS.snapShot();
+            }
+
+
+    </script>
+
+</head>
+
+<body>
+
+<h3>Web模块</h3>
+
+<h3 id="showmsg">调用js显示结果</h3>
+
+<input type="button" value="Js to Java" onclick="javacalljs()"/>
+
+<input type="button" value="Js to Java with args" onclick="javacalljswith('cc')"/>
+
+<input type="button" value="点击登录" onclick="javalogin('mm','123456')"/>
+
+<input type="button" value="开始截屏" onclick="shot()"/>
+
+<p><span>some text.</span>some other text.</p>
+<font size="2"><input type="button" value="Js to Java" onclick="javacalljs()"/>
+</font>
+
+
+
+
+<!--<input type="file" accept="video/*;capture=camcorder">拍摄-->
+<!--<input type="file" accept="audio/*;capture=microphone">-->
+<!--<input type="file" accept="image/*;capture=camera">直接调用相机-->
+<!--<input type="file" accept="image/*" />调用相机 图片或者相册-->
+
+
+
+</body>
+
+</html>

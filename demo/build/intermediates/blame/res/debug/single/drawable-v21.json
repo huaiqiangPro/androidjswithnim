@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/0b0a0451a91dd04f12c97cf6ba8a10ad/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7eea1ddf3c3b11a68a3555619af36e92/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-v21/nim_touch_bg.xml",
+        "source": "/Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/bundles/debug/res/drawable-v21/nim_touch_bg.xml"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/0b0a0451a91dd04f12c97cf6ba8a10ad/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/0b0a0451a91dd04f12c97cf6ba8a10ad/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/0b0a0451a91dd04f12c97cf6ba8a10ad/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]

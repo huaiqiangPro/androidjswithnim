@@ -1,0 +1,136 @@
+-injars /Users/Mr.Gu/Downloads/nim_demo/demo/libs/nrtc-sdk.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/demo/libs/nim-rts-6.5.0.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/demo/libs/MiPush_SDK_Client_3_6_2.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/demo/libs/AMap2DMap_3.0.0_AMapSearch_3.6.1_AMapLocation_3.2.1_20161228.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/demo/libs/nim-avchat-6.5.0.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/demo/libs/nim-push-6.5.0.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/demo/libs/vivo_pushsdk_v2.3.1.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/crashlytics-2.8.0.aar/498712c159efcee01447e00a9011910c/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/15761ffd031dda796923777d78d3232f/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/leakcanary-support-fragment-1.6.1.aar/5f8e07920ab630a7abf63f20d69af952/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.6.1.aar/db57224d343f22abd494507cecc34734/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/9f87df4e7f652f1ac57a37789730b65e/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/uikit/libs/nim-basesdk-6.5.0.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/uikit/libs/nim-chatroom-6.5.0.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/uikit/libs/nim-lucene-6.5.0.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/uikit/libs/java-json.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/uikit/libs/fastjson-1.1.34.android.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/jrmfRpWalletlib/libs/alipaySingle-20170510.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/jrmfRpWalletlib/libs/JrmfRpWallet-2.2.0.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/jrmfRpWalletlib/libs/gson-2.2.4.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/jrmfRpWalletlib/libs/okhttp-3.6.0.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/jrmfRpWalletlib/libs/okio-1.11.0.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.0.aar/795156976a0eabfbae153c0284a9a1a3/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/d325fdf226d187e25aba2fc15750d13e/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.3.aar/a30b6bd3f2bced58bdf07d26ae1ac4c3/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/push-2.6.0.301.aar/b0639598de862597ffaafcdcebb63aa1/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/jsbridge-1.3.1.aar/b575f84a3c7bc22f83db612970957c48/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.9.3.aar/e7295a94db05ea95180e5f32ed1beb44/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.7/21734c0092a5d3c3ec99510e50c1ff76bdf0c65a/rxjava-2.0.7.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/9d9ade9288fe94e13b02715c43dfac1d/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common-java8/1.1.0/38a98f7e060beb4ac1c3b2caf5e7c7a3b2225f5a/common-java8-1.1.0.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.5.0.aar/9c44242e07d3df9ba8ec42037c0861a1/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/9444e4ed4a055aa9782c20701201344f/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/24ea7dcaa05ace6f2a5a1107acba638d/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/fabric-1.4.1.aar/88b9bf8eb8be45199004275dc32c6308/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/faceunity/libs/nama.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/0b0a0451a91dd04f12c97cf6ba8a10ad/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f18d64724bb6936e4d1a7789e5013563/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/23145798c4e64e2bc5d1441ef3c5a826/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.6.1.aar/617e4992e55cc72ba8e59936e345f978/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/library-1.2.4.aar/7b9eb22d90224c39803e85eba793b58a/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/300c32a1ec0a98fed94765f7fb2142ec/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/fdf02ba2961cca50b4d101b28873e119/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/8f22df3dcedc6a0ed7e6532cd918bc51/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/b341371355f6abb4f70c2567ea646693/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/8f379aa00bd879e2b972f1359a821287/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/72ea791d0b0b156fedea655529018b7f/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/discrete-seekbar-1.0.1.aar/63f772a45c44206ddf5b9ae03ba3a4f4/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c6df041602faf4c442a839a200615300/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/25219dfdc99a8a296719bdf1e9c68d0b/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/4db3fc4b28518f16982bc11e2d296c5e/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1f221c55b627b24a7e30431b62350e25/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/overscroll-decor-android-1.0.4.aar/7b3de376fda242d1725086314a316839/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.17.aar/0be4d6b7f297f22475602e5fc2642819/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/glide-transformations-3.0.1.aar/abc0bb6787217a03fce938ebcb25af4a/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.2.0/b76d4269b06b8bda96aac32342a05843b4c0be41/glide-4.2.0.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/13fb230029cb927b0dc531c658e1c60b/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.6.0.aar/df88502c7c7520e5b6616616d2cf3cd9/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/45dc1e6e017bbf7ef1212b879170eafe/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/0f17f177fc1320c312a9b61028c608d7/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/0f17f177fc1320c312a9b61028c608d7/jars/libs/UpdateSdk_release_V2.0.1.303.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/base-2.6.0.301.aar/0f17f177fc1320c312a9b61028c608d7/jars/libs/hianalytics_v2.9.1.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5bc43932b8fe3c2ce20ba95c6af41633/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7585b17966677ad10f3e598d7fbfddb1/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/27104c00a5567560767b98cf99ce5555/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ab61901a5c5b43b1e62edc697e32d5f3/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7eea1ddf3c3b11a68a3555619af36e92/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d0fdcd91aa60df8e064d3c1cc8b9078b/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/26fc6d78ad30d9f48133e4e190f09393/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/09c90196e37d34f2495741578370510d/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/45d9acdc7bc79b8c8604b02f5d594db9/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/11626d0e31e08629b87cf5a795d2e0cb/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.2.0/f196283dab426e09559bfe7385f162b2b254cf72/gifdecoder-4.2.0.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/b1f75e30ec71e28cdde342b804dee991/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.6.1/525aa64b206d926d83bfad3c1d3f773e4123a320/leakcanary-watcher-1.6.1.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.4/4dbe9405e87aa52687c692740253c0ef93dbad9b/haha-2.0.4.jar(**.class)
+-injars /Users/Mr.Gu/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.2.0/fd3a444cc7987b5fa2a60fabb116395ca2a4da1c/disklrucache-4.2.0.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.2.0/1d6fc29f2af61d8fdc31018416040c560423c4b3/annotations-4.2.0.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/96bead69cdb9cffcee974afcfc71da53/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/bdaff9c46b46408981410d2ff07fd4e7/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/dc23047ede1f075b90eef1ad62179933/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/f7b31b8fc34db80e2fb9b110e31ff2c0/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/620a6c52d9ef8bf05978d2604022c49a/jars/classes.jar(**.class)
+-injars /Users/Mr.Gu/.gradle/caches/modules-2/files-2.1/org.jetbrains.trove4j/trove4j/20160824/33c3e174a9c8368d93761d3d12712db18e903959/trove4j-20160824.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/rtskit/build/intermediates/intermediate-jars/debug/classes.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/uikit/build/intermediates/intermediate-jars/debug/classes.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/jrmfRpWalletlib/build/intermediates/intermediate-jars/debug/classes.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/avchatkit/build/intermediates/intermediate-jars/debug/classes.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/faceunity/build/intermediates/intermediate-jars/debug/classes.jar(**.class)
+-injars /Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/classes/debug(**.class)
+-outjars /Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /Users/Mr.Gu/Library/Android/sdk/build-tools/26.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /Users/Mr.Gu/Downloads/nim_demo/demo/build/intermediates/multi-dex/debug/components.flags
+
+
+# view AndroidManifest.xml #generated:107
+-keep class com.netease.nim.demo.NimApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}
