@@ -74,7 +74,7 @@ public class WebViewActivity extends UI {
     private WebView mWebView;
     private ValueCallback<Uri> mUploadMessage;
     private ValueCallback<Uri[]> mUploadCallbackAboveL;
-    private boolean videoFlag = true;
+    private boolean videoFlag = false;
     private Uri imageUri;
     private String TAG = "WebChromeClient";
 
@@ -254,7 +254,7 @@ public class WebViewActivity extends UI {
         intent.putExtra(MediaStore.EXTRA_DURATION_LIMIT, 10);
         //开启摄像机
         startActivityForResult(intent, VIDEO_REQUEST);
-        videoFlag = false;
+        //videoFlag = false;
     }
 
     /**
@@ -465,6 +465,8 @@ public class WebViewActivity extends UI {
         public boolean onShowFileChooser(WebView webView, ValueCallback<Uri[]> filePathCallback, FileChooserParams fileChooserParams) {
             Log.d(TAG, "onShowFileChooser(ValueCallback<Uri> uploadMsg, String acceptType, String capture)");
             mUploadCallbackAboveL = filePathCallback;
+
+
             if (videoFlag) {
                 recordVideo();
             } else {
