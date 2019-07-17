@@ -115,7 +115,6 @@ public class AndroidJS {
 
 //                                Bitmap bitmap = captureWebView(mWebView);
 //                                ImageHelper.saveBitmapToSDCard(mContext, bitmap);
-
                                 ((Activity)mContext).runOnUiThread(new Runnable() {
                                     @Override
                                     public void run() {
@@ -126,15 +125,16 @@ public class AndroidJS {
 
                             } catch (Exception e) {
                                 e.printStackTrace();
+                                Log.e("ghq",  " Exception:"+e.getMessage());
                             }
-                            Log.d("shot", permission.name + " is granted.");
+                            Log.d("ghq", permission.name + " is granted.");
                         } else if (permission.shouldShowRequestPermissionRationale) {
                             // 用户拒绝了该权限，没有选中『不再询问』（Never ask again）,那么下次再次启动时。还会提示请求权限的对话框
-                            Log.d("shot", permission.name + " is denied. More info should be provided.");
+                            Log.d("ghq", permission.name + " is denied. More info should be provided.");
                         } else {
                             ToastUtil.showLongToast(mContext, "权限未开启，请到设置中开启");
                             // 用户拒绝了该权限，而且选中『不再询问』
-                            Log.d("shot", permission.name + " is denied.");
+                            Log.d("ghq", permission.name + " is denied.");
                         }
                     }
                 });

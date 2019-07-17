@@ -4,7 +4,7 @@
     <item>
         <bitmap
             android:gravity="center"
-            android:scaleType="centerCrop"
+            android:scaleType="centerInside"
             android:src="@drawable/splash_img_text"
             android:tileMode="disabled" />
     </item>

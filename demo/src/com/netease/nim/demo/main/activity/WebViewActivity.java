@@ -7,9 +7,6 @@ import android.content.ClipData;
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
-import android.graphics.Canvas;
-import android.graphics.Paint;
-import android.graphics.Picture;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
@@ -17,24 +14,16 @@ import android.os.Environment;
 import android.os.SystemClock;
 import android.provider.MediaStore;
 import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
-import android.support.annotation.RequiresApi;
 import android.support.v4.content.FileProvider;
 import android.text.TextUtils;
 import android.util.Log;
-import android.view.View;
 import android.webkit.DownloadListener;
 import android.webkit.ValueCallback;
 import android.webkit.WebChromeClient;
-import android.webkit.WebResourceRequest;
-import android.webkit.WebResourceResponse;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
-import android.widget.FrameLayout;
-import android.widget.LinearLayout;
 import android.widget.Toast;
 
-import com.jrmf360.normallib.base.utils.ToastUtil;
 import com.netease.nim.avchatkit.common.permission.annotation.OnMPermissionDenied;
 import com.netease.nim.avchatkit.common.permission.annotation.OnMPermissionGranted;
 import com.netease.nim.avchatkit.common.permission.annotation.OnMPermissionNeverAskAgain;
@@ -42,11 +31,6 @@ import com.netease.nim.demo.R;
 import com.netease.nim.uikit.common.activity.UI;
 import com.netease.nim.uikit.support.permission.MPermission;
 import com.netease.nimlib.sdk.avchat.AVChatManager;
-
-import com.tbruyelle.rxpermissions2.Permission;
-import com.tbruyelle.rxpermissions2.RxPermissions;
-import io.reactivex.functions.Consumer;
-
 
 import java.io.File;
 import java.util.List;
@@ -122,13 +106,13 @@ public class WebViewActivity extends UI {
         } else {
             WebViewSetting.setInnerWebView(mWebView);
             mWebView.getSettings().setJavaScriptEnabled(true);
-            mWebView.addJavascriptInterface(new AndroidJS(this,mWebView), "androidJS");
+            mWebView.addJavascriptInterface(new AndroidJS(this, mWebView), "androidJS");
 
             mWebView.loadUrl(url);
             mWebView.setWebViewClient(new WebViewClient() {
                 @Override
                 public boolean shouldOverrideUrlLoading(WebView view, String url) {
-                    Log.e("ghq","shouldOverrideUrlLoading "+url);
+                    Log.e("ghq", "shouldOverrideUrlLoading " + url);
 
                     view.loadUrl(url);
                     return true;
@@ -136,14 +120,14 @@ public class WebViewActivity extends UI {
 
                 @Override
                 public void onPageStarted(WebView view, String url, Bitmap favicon) {
-                    Log.e("ghq","onPageStarted "+url);
+                    Log.e("ghq", "onPageStarted " + url);
 
                     super.onPageStarted(view, url, favicon);
                 }
 
                 @Override
                 public void onPageFinished(WebView view, String url) {
-                    Log.e("ghq","onPageFinished "+url);
+                    Log.e("ghq", "onPageFinished " + url);
                     super.onPageFinished(view, url);
                 }
 
@@ -167,7 +151,7 @@ public class WebViewActivity extends UI {
         if (mWebView.canGoBack())
             mWebView.goBack();
         else
-        super.onBackPressed();
+            super.onBackPressed();
 //        {
 //            snapShot();
 //        }
@@ -348,81 +332,79 @@ public class WebViewActivity extends UI {
         mUploadCallbackAboveL = null;
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.N)
-    void snapShot() {
-
-        RxPermissions rxPermission = new RxPermissions(this);
-        rxPermission
-                .requestEach(Manifest.permission.WRITE_EXTERNAL_STORAGE)
-                .subscribe(new Consumer<Permission>() {
-                    @Override
-                    public void accept(Permission permission) {
-                        if (permission.granted) {
-                            // 用户已经同意该权限
-                            try {
-
-                                Bitmap bitmap = captureWebView(mWebView);
-
-                                ImageHelper.saveBitmapToSDCard(WebViewActivity.this, bitmap);
-                            } catch (Exception e) {
-                                e.printStackTrace();
-                            }
-                            Log.d(TAG, permission.name + " is granted.");
-                        } else if (permission.shouldShowRequestPermissionRationale) {
-                            // 用户拒绝了该权限，没有选中『不再询问』（Never ask again）,那么下次再次启动时。还会提示请求权限的对话框
-                            Log.d(TAG, permission.name + " is denied. More info should be provided.");
-                        } else {
-                            ToastUtil.showLongToast(WebViewActivity.this, "权限未开启，请到设置中开启");
-                            // 用户拒绝了该权限，而且选中『不再询问』
-                            Log.d(TAG, permission.name + " is denied.");
-                        }
-                    }
-                });
-    }
-
-    private static Bitmap captureWebView(WebView webView) {
-
-        float scale = webView.getScale();
-        int width = webView.getWidth();
-        int height = (int) (webView.getContentHeight() * scale + 0.5);
-        Log.e("ghq","页面的高度："+height+"");
-        Bitmap bitmap = Bitmap.createBitmap(width, height, Bitmap.Config.RGB_565);
-        Canvas canvas = new Canvas(bitmap);
-        webView.draw(canvas);
-        return bitmap;
-    }
-
-    public Bitmap viewShot(final View view) {
-        if (view == null)
-            return null;
-        view.setDrawingCacheEnabled(true);
-        view.buildDrawingCache();
-        int measureSpec = View.MeasureSpec.makeMeasureSpec(0, View.MeasureSpec.UNSPECIFIED);
-        view.measure(measureSpec, measureSpec);
-        if (view.getMeasuredWidth() <= 0 || view.getMeasuredHeight() <= 0) {
-            return null;
-        }
-        Bitmap bm;
-        try {
-            bm = Bitmap.createBitmap(view.getMeasuredWidth(), view.getMeasuredHeight(), Bitmap.Config.RGB_565);
-        } catch (OutOfMemoryError e) {
-            System.gc();
-            try {
-                bm = Bitmap.createBitmap(view.getMeasuredWidth(), view.getMeasuredHeight(), Bitmap.Config.RGB_565);
-            } catch (OutOfMemoryError ee) {
-                return null;
-            }
-        }
-        Canvas bigCanvas = new Canvas(bm);
-        Paint paint = new Paint();
-        int iHeight = bm.getHeight();
-        bigCanvas.drawBitmap(bm, 0, iHeight, paint);
-        view.draw(bigCanvas);
-        //showToast(getString(R.string.already_share_save_img));
-        return bm;
-    }
-
-
+//    @RequiresApi(api = Build.VERSION_CODES.N)
+//    void snapShot() {
+//
+//        RxPermissions rxPermission = new RxPermissions(this);
+//        rxPermission
+//                .requestEach(Manifest.permission.WRITE_EXTERNAL_STORAGE)
+//                .subscribe(new Consumer<Permission>() {
+//                    @Override
+//                    public void accept(Permission permission) {
+//                        if (permission.granted) {
+//                            // 用户已经同意该权限
+//                            try {
+//
+//                                Bitmap bitmap = captureWebView(mWebView);
+//
+//                                ImageHelper.saveBitmapToSDCard(WebViewActivity.this, bitmap);
+//                            } catch (Exception e) {
+//                                e.printStackTrace();
+//                            }
+//                            Log.d(TAG, permission.name + " is granted.");
+//                        } else if (permission.shouldShowRequestPermissionRationale) {
+//                            // 用户拒绝了该权限，没有选中『不再询问』（Never ask again）,那么下次再次启动时。还会提示请求权限的对话框
+//                            Log.d(TAG, permission.name + " is denied. More info should be provided.");
+//                        } else {
+//                            ToastUtil.showLongToast(WebViewActivity.this, "权限未开启，请到设置中开启");
+//                            // 用户拒绝了该权限，而且选中『不再询问』
+//                            Log.d(TAG, permission.name + " is denied.");
+//                        }
+//                    }
+//                });
+//    }
+//
+//    private static Bitmap captureWebView(WebView webView) {
+//
+//        float scale = webView.getScale();
+//        int width = webView.getWidth();
+//        int height = (int) (webView.getContentHeight() * scale + 0.5);
+//        Log.e("ghq","页面的高度："+height+"");
+//        Bitmap bitmap = Bitmap.createBitmap(width, height, Bitmap.Config.RGB_565);
+//        Canvas canvas = new Canvas(bitmap);
+//        webView.draw(canvas);
+//        return bitmap;
+//    }
+//
+//    public Bitmap viewShot(final View view) {
+//        if (view == null)
+//            return null;
+//        view.setDrawingCacheEnabled(true);
+//        view.buildDrawingCache();
+//        int measureSpec = View.MeasureSpec.makeMeasureSpec(0, View.MeasureSpec.UNSPECIFIED);
+//        view.measure(measureSpec, measureSpec);
+//        if (view.getMeasuredWidth() <= 0 || view.getMeasuredHeight() <= 0) {
+//            return null;
+//        }
+//        Bitmap bm;
+//        try {
+//            bm = Bitmap.createBitmap(view.getMeasuredWidth(), view.getMeasuredHeight(), Bitmap.Config.RGB_565);
+//        } catch (OutOfMemoryError e) {
+//            System.gc();
+//            try {
+//                bm = Bitmap.createBitmap(view.getMeasuredWidth(), view.getMeasuredHeight(), Bitmap.Config.RGB_565);
+//            } catch (OutOfMemoryError ee) {
+//                return null;
+//            }
+//        }
+//        Canvas bigCanvas = new Canvas(bm);
+//        Paint paint = new Paint();
+//        int iHeight = bm.getHeight();
+//        bigCanvas.drawBitmap(bm, 0, iHeight, paint);
+//        view.draw(bigCanvas);
+//        //showToast(getString(R.string.already_share_save_img));
+//        return bm;
+//    }
 
 
     //自定义 WebChromeClient 辅助WebView处理图片上传操作【<input type=file> 文件上传标签】
